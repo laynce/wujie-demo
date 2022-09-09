@@ -11,7 +11,7 @@ npm run dev
 
 ```
 
-####vue子应用
+#### vue子应用
 ```
  cd sub-vue
 
@@ -23,7 +23,7 @@ npm run dev
 
 ```
 
-####react子应用
+#### react子应用
 ```
  cd sub-react
 
